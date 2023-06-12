@@ -10,6 +10,15 @@ Full Stack Software Developer
 -----------------------------
 
 
+- 📚 I’m currently studying at the Rio de Janeiro State University (UERJ - Brazil);
+
+- 👀 Always learning something! This time: **Docker**; 
+
+- :left_speech_bubble: I speak: Portuguese, English and learning French;
+
+- ❤️ I love sports 🏀, e-sports 🎮, animals 🐶, and coding 🖥️;
+
+- ⚡ Fun fact: **one of my life goals is to be polyglot** and I'am currently learning the brazilian sign language;
 
 <!--
 **DAmalek/DAmalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
