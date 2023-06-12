@@ -3,7 +3,7 @@
 <a target="_blank" href="mailto:danielmalek101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 
-Hi 👋 I'm Daniel Abdel
+👋 I'm Daniel Abdel
 ==========================
 
 Full Stack Software Developer
