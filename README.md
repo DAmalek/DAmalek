@@ -18,8 +18,6 @@ Full Stack Software Developer
 
 - ❤️ I love sports 🏀, e-sports 🎮, animals 🐶, and coding 🖥️;
 
-- ⚡ Fun fact: **one of my life goals is to be polyglot** and I'am currently learning the brazilian sign language;
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p >
